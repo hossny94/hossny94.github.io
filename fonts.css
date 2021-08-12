@@ -4,7 +4,6 @@
   font-weight: 400;
   src: url(IBMPlexSansArabic-Regular.woff2)
     format("woff2");
-  unicode-range: U+2520-2677;
 }
 
 @font-face {
@@ -13,5 +12,4 @@
   font-weight: 400;
   src: url(IBMPlexSansArabic-Bold.woff2)
     format("woff2");
-  unicode-range: U+2520-2677;
 }
