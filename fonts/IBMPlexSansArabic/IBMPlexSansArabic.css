@@ -2,7 +2,7 @@
   font-family: "IBMPlexSansArabic";
   font-style: normal;
   font-weight: 400;
-  src: url(https://hossny94.github.io/fonts/IBMPlexSansArabic/IBMPlexSansArabic-Regular.woff2) format("woff2");
+  src: url(https://hossny94.github.io/fonts/IBMPlexSansArabic/IBMPlexSansArabic-Regular.woff2) format("woff2"),
        url(https://hossny94.github.io/fonts/IBMPlexSansArabic/IBMPlexSansArabic-Regular.woff) format("woff");
 }
 
@@ -10,6 +10,6 @@
   font-family: "IBMPlexSansArabic-Bold";
   font-style: normal;
   font-weight: 400;
-  src: url(https://hossny94.github.io/fonts/IBMPlexSansArabic/IBMPlexSansArabic-Bold.woff2) format("woff2");
+  src: url(https://hossny94.github.io/fonts/IBMPlexSansArabic/IBMPlexSansArabic-Bold.woff2) format("woff2"),
        url(https://hossny94.github.io/fonts/IBMPlexSansArabic/IBMPlexSansArabic-Bold.woff) format("woff");
 }
